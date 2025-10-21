@@ -2,8 +2,9 @@ body {
     font-family: "Arial", sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f2f2f2;
+    background-color: #acecff;
     padding: 10%;
+    font-size: x-large;
 }
 
 h1 {
@@ -14,7 +15,7 @@ h1 {
 #counter {
     text-align: center;
     font-weight: bold;
-    color: green;
+    color: rgb(3, 75, 3);
 }
 
 ul {
